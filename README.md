@@ -1,4 +1,4 @@
 # Curso github
-Repositorio do curso em video
+.Repositorio do curso em video.
 
 ^-^
